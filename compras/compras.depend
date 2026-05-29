@@ -319,7 +319,7 @@
 	<iostream>
 	<string>
 
-1780077825 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\main.cpp
+1780073307 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\main.cpp
 	<iostream>
 	<limits>
 	<vector>
@@ -328,12 +328,12 @@
 	"usuario.h"
 	"menu_general.h"
 
-1780077826 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\usuario.h
+1746990924 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\usuario.h
 	<string>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_general.h
+1746990924 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_general.h
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\bitacora.cpp
+1747006206 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\bitacora.cpp
 	"bitacora.h"
 	<map>
 	<fstream>
@@ -341,11 +341,11 @@
 	<iomanip>
 	<ctime>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\bitacora.h
+1747006206 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\bitacora.h
 	<string>
 	<ctime>
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\cliente.cpp
+1780073160 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\cliente.cpp
 	"cliente.h"
 	<fstream>
 	<iostream>
@@ -353,11 +353,11 @@
 	<sstream>
 	<algorithm>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\cliente.h
+1746990924 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\cliente.h
 	<string>
 	<vector>
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\compras.cpp
+1780073207 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\compras.cpp
 	"compras.h"
 	"producto.h"
 	"cliente.h"
@@ -369,40 +369,40 @@
 	<algorithm>
 	<limits>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\compras.h
+1746990924 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\compras.h
 	<string>
 	<vector>
 	<ctime>
 	"producto.h"
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\producto.h
+1746987875 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\producto.h
 	<string>
 	<vector>
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_archivo.cpp
+1747006206 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_archivo.cpp
 	"menu_archivo.h"
 	"bitacora.h"
 	<iostream>
 	<limits>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_archivo.h
+1747006206 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_archivo.h
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_cliente.cpp
+1746987875 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_cliente.cpp
 	"menu_cliente.h"
 	"cliente.h"
 	<iostream>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_cliente.h
+1746987875 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_cliente.h
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_compra.cpp
+1780073233 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_compra.cpp
 	"menu_compra.h"
 	"compras.h"
 	<iostream>
 	<iomanip>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_compra.h
+1746990924 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_compra.h
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_general.cpp
+1747006341 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_general.cpp
 	"menu_general.h"
 	"menu_cliente.h"
 	"menu_producto.h"
@@ -410,14 +410,14 @@
 	"menu_archivo.h"
 	<iostream>
 
-1780077825 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_producto.h
+1746987875 c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\include\menu_producto.h
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_producto.cpp
+1746987875 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\menu_producto.cpp
 	"menu_producto.h"
 	"producto.h"
 	<iostream>
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\producto.cpp
+1780073293 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\producto.cpp
 	"producto.h"
 	<fstream>
 	<iostream>
@@ -425,7 +425,7 @@
 	<sstream>
 	<algorithm>
 
-1780077826 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\usuario.cpp
+1780073288 source:c:\users\jjavi\onedrive\documentos\examenfinalprogra\compras\src\usuario.cpp
 	"usuario.h"
 	<fstream>
 	<iostream>
