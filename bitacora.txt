@@ -1,0 +1,12 @@
+* a2eefb4 Agregar .gitignore para ignorar carpetas de compilacion
+* 0831bac actualizacion depend y layout
+* c54ee12 depend y layout
+* d46ee99 actualizacion nuevamente ded la carpeta compras
+* 825aa77 bitacora actualizada
+* 64aa092 Actualizacion correcta de la carptea compras
+* 7676be7 eliminacion de archivo que se creo de mas
+* 7da94b4 actualizacion compras CLIENTES
+* 60b7f99 mi primer commit
+* 4185a7f layout
+* 5689c73 creacion del proyecto
+* b09e90c first commit
